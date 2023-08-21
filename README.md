@@ -12,5 +12,5 @@ See: [https://github.com/dandeancook/outlinex](https://github.com/dandeancook/ou
 Forked From
 ===========
 
-See: [[https://github.com/](https://github.com/warmdev/SublimeOutline)](https://github.com/warmdev/SublimeOutline)
+See: [https://github.com/warmdev/SublimeOutline](https://github.com/warmdev/SublimeOutline)
 ___
