@@ -6,7 +6,7 @@ Outline Plugin for Sublime Text 3+ with Code Regions
 Project Repository
 ==================
 
-See: [https://github.com/dandeancook/outlinex](https://github.com/dandeancook/outlinex)
+See: [https://github.com/nova3h/outlinex](https://github.com/nova3h/outlinex)
 
 
 Forked From
